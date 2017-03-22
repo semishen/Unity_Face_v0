@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
-public class SaveWebCamImg : MonoBehaviour {
+public class SaveWebCamImage : MonoBehaviour {
 	WebCamTexture wct;
 	int trigger = 12;
 	bool isWct = false;

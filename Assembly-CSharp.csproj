@@ -47,17 +47,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ImageSequenceSingleTexture.cs" />
-     <Compile Include="Assets\Scripts\LightChange.cs" />
      <Compile Include="Assets\Scripts\MainController.cs" />
      <Compile Include="Assets\Scripts\MovPlayBack.cs" />
-     <Compile Include="Assets\Scripts\RotateObj.cs" />
-     <Compile Include="Assets\Scripts\SaveWebCamImg.cs" />
+     <Compile Include="Assets\Scripts\SaveWebCamImage.cs" />
      <Compile Include="Assets\Scripts\Webcam.cs" />
      <Compile Include="Assets\Scripts\unused\Blocks.cs" />
      <Compile Include="Assets\Scripts\unused\ChangeMaterials.cs" />
      <Compile Include="Assets\Scripts\unused\CreateSphere.cs" />
+     <Compile Include="Assets\Scripts\unused\LightChange.cs" />
      <Compile Include="Assets\Scripts\unused\MultiPrefab.cs" />
      <Compile Include="Assets\Scripts\unused\RandomRepeating.cs" />
+     <Compile Include="Assets\Scripts\unused\RotateObj.cs" />
      <Compile Include="Assets\Scripts\unused\ToggleFullscreen.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Volumes/HD/Unity5/Unity_Face_v0/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>

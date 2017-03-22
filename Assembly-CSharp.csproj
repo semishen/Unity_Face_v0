@@ -60,7 +60,7 @@
      <Compile Include="Assets\Scripts\unused\RandomRepeating.cs" />
      <Compile Include="Assets\Scripts\unused\ToggleFullscreen.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>/Users/semisu/Documents/Unity/Unity_Face_v0/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>/Volumes/HD/Unity5/Unity_Face_v0/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

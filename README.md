@@ -1,16 +1,16 @@
-#Project
-##Assets
-###Img (unimportant)
+# Project
+## Assets
+### Img (unimportant)
 Texture for the EyeBallModel
-###Imported_fbx (unimportant)
+### Imported_fbx (unimportant)
 Imported EyeBallModel.fbx
-###Materials (unimportant)
+### Materials (unimportant)
 Materials for game objects
-###Prefab (unimportant)
+### Prefab (unimportant)
 Game objects for experimentation
-###Preprocessed (unimportant)
+### Preprocessed (unimportant)
 Materials like video or customized texture
-###Resources
+### Resources
 All facial images that will be displayed by the game object FaceScreens
 
 * mesh: Candide 3D mesh for face recognition
@@ -19,9 +19,9 @@ All facial images that will be displayed by the game object FaceScreens
 * stage3: Images for the sorting process, stage3
 * stage4: Images for the sorting process, stage4
 
-###Scene
+### Scene
 The main scene of this project
-###Scripts (important)
+### Scripts (important)
 The scripts that are used in this project
 
 * ImageSequencesSingleTexture: Controlling which image should be displayed on each faceScreen
@@ -31,25 +31,25 @@ The scripts that are used in this project
 * unused (unimportant)
 * Webcam: showing WebCam image on the game object WebCamScreen
 
-###Standard Assets (unimportant)
+### Standard Assets (unimportant)
 Basic character controllers and scripts for mouse and keyboard control
 
 ===
-#Game Object Hierarchy
-##FaceScreens
+# Game Object Hierarchy
+## FaceScreens
 The script ImageSequencesSingleTexture is attached on all faceScreen
-##SaveWebCamImage
+## SaveWebCamImage
 The game object to implement the script SaveWebCamImg
-##End (unimportant)
+## End (unimportant)
 The destination
-##EyeBallModel
+## EyeBallModel
 The main 3D model in the scene
-##Lights
+## Lights
 For light shading in the scene
-##WebCamScreen
+## WebCamScreen
 Displaying WebCam image
-##User
+## User
 The user
-##MainController
+## MainController
 The game object to implement the script MainController
   
